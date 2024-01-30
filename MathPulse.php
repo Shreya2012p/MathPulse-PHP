@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP CALCULATOR APP </title>
+    <title>PHP CALCULATOR APP ❤️ </title>
     <style>
         *{
     margin:0;
@@ -145,7 +145,7 @@ button{
 <br>
 <br><br>
 </div>
-<h4 class="footer">Made by K.G.SHREYA<span>
+<h4 class="footer">Made by ❤️ K.G.SHREYA<span>
 </form>
 </div>
 </body>
