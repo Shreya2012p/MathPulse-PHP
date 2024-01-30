@@ -27,7 +27,7 @@ MathPulse PHP is an advanced and dynamic calculator built using PHP, designed to
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/MathPulse.git
+    git clone https://github.com/Shreya2012p/MathPulse.git
     ```
 
 2. Navigate to the project directory:
@@ -44,7 +44,7 @@ MathPulse PHP is an advanced and dynamic calculator built using PHP, designed to
     MathPulse.php
 ```
 ## Screenshot:
-![MATHPULSE](https://github.com/Shreya2012p/MathPulse-PHP/assets/96654167/8d62819e-b8c8-473e-b069-4c3c7e523339)
+![MATHPULSE](https://github.com/Shreya2012p/MathPulse-PHP/assets/96654167/5f0a92dd-a69c-4412-93b9-d9fbb50e9f35)
 
 ## Contributing:
 
