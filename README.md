@@ -1,2 +1,40 @@
-# MathPulse-PHP
+# MathPulse-PHP👩‍💻👩‍💻👩‍💻
+
+# Description :
 MathPulse PHP is an advanced and dynamic calculator built using PHP, designed to provide users with a seamless and efficient mathematical computing experience. This web-based tool combines the power of PHP scripting with an intuitive user interface to offer a range of mathematical functions and operations.
+
+## Features
+
+-👉 **Addition:** Add two numbers.<br>
+-👉 **Subtraction:** Subtract one number from another.<br>
+-👉 **Multiplication:** Multiply two numbers.<br>
+-👉**Division:** Divide one number by another.<br>
+
+### Prerequisites
+
+- PHP installed on your machine.
+
+### Installation
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/your-username/MathPulse.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd MathPulse
+    ```
+
+## Usage
+
+1. Open the project directory in a terminal.
+2. Run the calculator script:
+```bash
+    MathPulse.php
+```
+## Screenshot
+![MATHPULSE](https://github.com/Shreya2012p/MathPulse-PHP/assets/96654167/8d62819e-b8c8-473e-b069-4c3c7e523339)
+
